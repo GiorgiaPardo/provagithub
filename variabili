@@ -1,6 +1,6 @@
 <?php
-$mySmallNumer = 12;
-$myLargeNumer = 122;
-$myTotal=$mySmallNumer + $myLargeNumber;
+$mySmallNumber = 12;
+$myLargeNumber = 122;
+$myTotal=$mySmallNubmer + $myLargeNumber;
 echo $myTotal;
 ?>
